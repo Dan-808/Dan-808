@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Daniel</h1>
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working in **e-Core**
+- 🔭 I’m currently working at **Bayer**
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -13,31 +13,27 @@ Welcome to my GitHub profile!
 
 Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.](Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danielcorreati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcorreati/" height="30" width="40" /></a>
-</p>
-
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/danielcorreati/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcorreati/" height="30" width="40" /></a>
+</p><br>
 
 ## 🏅 Certifications
 <div style="display: inline_block"><br>
   <img src="https://images.credly.com/size/680x680/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"> 
   <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
-
+---
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dan-808&theme=gotham&mode=weekly" />
+  <a href="https://github.com/Dan-808">
+<img width=53% align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dan-808&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Dan-808&show_icons=true&theme=gotham&layout=compact" />
  </div>
  
  &nbsp;
  &nbsp;
-
+ 
 
 
 ## My Skills
@@ -82,6 +78,4 @@ Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo 
 &nbsp;
 
 
-
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F5A59&height=120&section=footer"/>
