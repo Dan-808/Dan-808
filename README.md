@@ -1,5 +1,5 @@
-<h1 align="center">Olá!</h1>
-Bem-vindo ao meu perfil no GitHub!
+<h1 align="center">Hello! I'm Daniel</h1>
+Welcome to my GitHub profile!
 
 - 🔭 I’m currently working in **e-Core**
 
