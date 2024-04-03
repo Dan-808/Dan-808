@@ -67,6 +67,17 @@ I'm currently a DevOps intern at Bayer. I have knowledge of AWS, Linux, Python, 
   <img align="center" alt="Dan808-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Dan808-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
+  <br><div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Dan-808/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 &nbsp;
 &nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393838&height=120&section=footer"/>
