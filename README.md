@@ -7,17 +7,16 @@ Welcome to my GitHub profile!
 
 - 💬 Ask me about **Terraform, AWS, Docker**
 
-- 📫 How to reach me **danielcorreagomes99@gmail.com**
-
 - 📄 Know about my experiences 
 
 I'm currently a DevOps intern at Bayer. I have knowledge of AWS, Linux, Python, Docker, Terraform, CI/CD and GIT. I'm always looking for new challenges and improving my skills in order to evolve and add value to the company and the team.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/danielcorreati/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcorreati/" height="30" width="40" /></a>
-</p><br>
+<div> 
+  <a href="https://www.linkedin.com/in/danielcorreati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:danielcorreagomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div><br>
 
 ## 🏅 Certifications
 <div style="display: inline_block"><br>
@@ -68,7 +67,7 @@ I'm currently a DevOps intern at Bayer. I have knowledge of AWS, Linux, Python, 
   <img align="center" alt="Dan808-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
   <br><div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
