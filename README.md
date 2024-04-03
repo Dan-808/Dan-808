@@ -37,7 +37,7 @@ I'm currently a DevOps intern at Bayer. I have knowledge of AWS, Linux, Python, 
 
 ## My Skills
 
-### Tools and Technologies
+### 🖥️ Tools and Technologies
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan808-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
